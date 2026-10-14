@@ -1,1 +1,1 @@
-# Melbourne-Housing-Market-Clustering-Price-Prediction-Machine-Learning-Individual-project
+# EDA on Garment Worker Productivity  Programming for Data Science · Group project with Zeinabou Amadou Haïnikoye
